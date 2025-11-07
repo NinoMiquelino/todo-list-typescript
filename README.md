@@ -74,6 +74,12 @@ src/
 
 ---
 
+Desenvolvido com ❤️ por Onivaldo Miquelino
+
+Se este projeto te ajudou, considere dar uma ⭐ no repositório!
+
+---
+
 ## 🤝 Contribuições
 Contribuições são sempre bem-vindas!  
 Sinta-se à vontade para abrir uma [*issue*](https://github.com/NinoMiquelino/todo-list-typescript/issues) com sugestões ou enviar um [*pull request*](https://github.com/NinoMiquelino/todo-list-typescript/pulls) com melhorias.
